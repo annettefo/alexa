@@ -1,6 +1,5 @@
 # group_project_python 
 ![alexa](https://cloud.githubusercontent.com/assets/20345440/21660800/d9e918de-d285-11e6-8de2-e9c197ef021b.jpg)
-https://aminhp93.github.io/alexa/
 
 Member:
 * Annette
