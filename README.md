@@ -1,4 +1,4 @@
-# group_project_python 
+# Touch Face - python group project
 ![alexa](https://cloud.githubusercontent.com/assets/20345440/21660800/d9e918de-d285-11e6-8de2-e9c197ef021b.jpg)
 
 Member:
